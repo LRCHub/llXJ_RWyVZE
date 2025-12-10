@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "…恋に落ちたら",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-10T08:08:48.371554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋に落ちたら",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/01_恋に落ちたら_PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋に落ちたら (When You Fall In Love)",
+      "artist": "Shogo Hamada (浜田省吾)",
+      "has_synced": true,
+      "path": "select/02_恋に落ちたら_(When_You_Fall_In_Love)_Shogo_Hamada_(浜田省吾).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋に落ちたら",
+      "artist": "プリンセス プリンセス",
+      "has_synced": false,
+      "path": "select/03_恋に落ちたら_プリンセス_プリンセス.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "…恋に落ちたら",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_...恋に落ちたら_Penthouse.txt"
+    }
+  ]
+}
